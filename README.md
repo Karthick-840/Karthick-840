@@ -23,7 +23,10 @@ You can click the Preview link to take a look at your changes.
 **Languages:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/R-276DC3?logo=R&logoColor=BFC2C5" alt="R logo" title="R" height="25"></code>
+<code><img height="20" src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25"></code>
+  
+  
   
 **Libraries:**  
 
