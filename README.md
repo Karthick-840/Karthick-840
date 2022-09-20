@@ -1,4 +1,5 @@
-### hey there 
+### Hey there...
+
 <a href="https://www.instagram.com/karthick840/?hl=en">
   <img align="left" alt="Karthick's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -10,7 +11,7 @@
 </a>
 
 <br />
-
+<br />
 
 - 👋 Hi, I’m @Karthick-840
 - 👀 I’m interested in harnessing leaner Big-data/Image processing for biological use-cases
@@ -22,3 +23,7 @@
 Karthick-840/Karthick-840 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+**languages and tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
