@@ -4,8 +4,8 @@
 - 👀 I’m interested in harnessing leaner Big-data/Image processing for digital phenotyping and real-time sorting.
 - 🌱 I’m currently learning Model Deployment and monitoring for real-time predictions and batch predictions 
 - 💞️ I’m looking to collaborate on Imaging and Microscopy analysis like cell-signalling, Spatial data analysis, Field production research.
-- 📫 Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/jlim/)
-- ⚡ Fun fact: 
+- 📫 Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/karthick840)
+- ⚡ Fun fact: I have travelled to 25 countries before turning 25.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Karthick_Jayaraman-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karthick840/)](https://www.linkedin.com/in/karthick840/)
 [![Twitter Badge](https://img.shields.io/badge/-@KaRtHiCk840-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/KaRtHiCk840)](https://twitter.com/KaRtHiCk840)
