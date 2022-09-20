@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in harnessing leaner Big-data/Image processing for digital phenotyping and real-time sorting.
 - 🌱 I’m currently learning Model Deployment and monitoring for real-time predictions and batch predictions 
-- 💞️ I’m looking to collaborate on Imaging and Microscopy analysis like cell-signalling, Spatial data analysis, Field production research.
+- 💞️ I’m looking to collaborate on Imaging and Microscopy analysis like multi-dimenstional and spectral data, Spatial data analysis, Field production research.
 - 📫 Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/karthick840)
 - ⚡ Fun fact: I have travelled to 25 countries before turning 25.
 
