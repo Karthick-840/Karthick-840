@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 - ⚡ Fun fact: I have travelled to 25 countries before turning 25.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Karthick_Jayaraman-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karthick840/)](https://www.linkedin.com/in/karthick840/)
-![Kaggle Badge](https://img.shields.io/badge/Karthick_J-20BEFF?style=for-thebadge&style=flat&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/karthickjayaraman)
+![Kaggle Badge](https://img.shields.io/badge/Karthick_J-20BEFF?style=large&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/karthickjayaraman)
 [![Gmail Badge](https://img.shields.io/badge/-karthick840-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:karthick840@gmail.com)](mailto:karthick840@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@karthick840-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/karthick840/)](https://www.instagram.com/karthick840)
 
