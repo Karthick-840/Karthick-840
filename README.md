@@ -1,3 +1,8 @@
+<!---
+Karthick-840/Karthick-840 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
 <h1 align="center">Hey there!👋, I'm Karthick
 <h3 align="center">A passionate Biomedical engineer from Netherlands</h3>
 
@@ -11,15 +16,9 @@
 ![Kaggle Badge](https://img.shields.io/badge/Karthick_J-20BEFF?style=for-thebadge&style=flat&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/karthickjayaraman)
 [![Gmail Badge](https://img.shields.io/badge/-karthick840-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:karthick840@gmail.com)](mailto:karthick840@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@karthick840-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/karthick840/)](https://www.instagram.com/karthick840)
-[![Twitter Badge](https://img.shields.io/badge/-@KaRtHiCk840-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/KaRtHiCk840)](https://twitter.com/KaRtHiCk840)
 
 <br />
 
-
-<!---
-Karthick-840/Karthick-840 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 **Languages:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
