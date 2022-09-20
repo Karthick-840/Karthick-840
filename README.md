@@ -11,6 +11,7 @@
 
 <br />
 
+
 - 👋 Hi, I’m @Karthick-840
 - 👀 I’m interested in harnessing leaner Big-data/Image processing for biological use-cases
 - 🌱 I’m currently learning Model Deployment and monitoring for real-time predictions and batch predictions 
