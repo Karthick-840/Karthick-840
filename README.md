@@ -11,7 +11,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@KaRtHiCk840-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/KaRtHiCk840)](https://twitter.com/KaRtHiCk840)
 [![Instagram Badge](https://img.shields.io/badge/-@karthick840-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/karthick840/)](https://www.instagram.com/karthick840)
 [![Gmail Badge](https://img.shields.io/badge/-karthick840-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:karthick840@gmail.com)](mailto:karthick840@gmail.com)
-![Kaggle Badge](https://img.shields.io/badge/Karthick_J-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/karthickjayaraman)
+![Kaggle Badge](https://img.shields.io/badge/Karthick_J-20BEFF?style=for-thebadge&style=flat&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/karthickjayaraman)
 
 <br />
 
