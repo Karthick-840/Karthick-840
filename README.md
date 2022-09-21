@@ -9,15 +9,14 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in harnessing leaner Big-data/Image processing for digital phenotyping and real-time sorting.
 - 🌱 I’m currently learning Model Deployment and monitoring for real-time predictions and batch predictions 
 - 💞️ I’m looking to collaborate on Imaging and Microscopy analysis like multi-dimenstional and spectral data, Spatial data analysis, Field production research.
-- 📫 Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/karthick840)
 - ⚡ Fun fact: I have travelled to 25 countries before turning 25.
+
+**Reach Me:**  
 
 [![Linkedin Badge](https://img.shields.io/badge/-Karthick_Jayaraman-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karthick840/)](https://www.linkedin.com/in/karthick840/)
 ![Kaggle Badge](https://img.shields.io/badge/Karthick_J-20BEFF?style=large&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/karthickjayaraman)
 [![Gmail Badge](https://img.shields.io/badge/-karthick840-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:karthick840@gmail.com)](mailto:karthick840@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@karthick840-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/karthick840/)](https://www.instagram.com/karthick840)
-
-<br />
 
 **Languages:**  
 
@@ -43,11 +42,10 @@ You can click the Preview link to take a look at your changes.
 <code><img height="20" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"></code>
 
-
 <br />
-</table>
 
-<div>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Karthick-840&theme=dark&show_icons=true" width="350" align="right" /></a>
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Karthick-840&theme=highcontrast&hide_border=true" width="350" /></a>
+<h1 align="center">
+
+</table>
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Karthick-840&theme=highcontrast&hide_border=true" width="350" />
 </div>
