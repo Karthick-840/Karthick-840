@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👀 I’m interested in harnessing leaner Big-data/Image processing for digital phenotyping and real-time sorting.
 - 🌱 I’m currently learning Model Deployment and monitoring for real-time predictions and batch predictions 
-- 💞️ I’m looking to collaborate on Imaging and Microscopy analysis like multi-dimenstional and spectral data, Spatial data analysis, Field production research.
+- 💞️ I’m looking to collaborate on Imaging and Microscopy analysis like multi-dimenstional and spectral data, Spatial data analysis, Field production analysis.
 - ⚡ Fun fact: I have travelled to 25 countries before turning 25.
 
 **Reach Me:**  
