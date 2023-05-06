@@ -3,7 +3,7 @@ Karthick-840/Karthick-840 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hey there!👋, I'm Karthick
+<h1 align="center">Hello there!👋, I'm Karthick
 <h3 align="center">A passionate Biomedical engineer from Netherlands</h3>
 
 - 👀 I’m interested in harnessing leaner Big-data/Image processing for digital phenotyping and real-time sorting.
