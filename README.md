@@ -45,3 +45,4 @@ You can click the Preview link to take a look at your changes.
 ![Karthick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karthick-840&count_private=true&hide=stars,issues,contribs&theme=tokyonight)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Karthick-840&&theme=tokyonight" alt="Karthick-840" /></p> --> 
