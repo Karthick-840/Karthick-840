@@ -42,7 +42,10 @@ You can click the Preview link to take a look at your changes.
 <code><img height="20" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"></code>
   
-![Karthick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karthick-840&count_private=true&hide=stars,issues,contribs&theme=tokyonight)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
+**Karthick's GitHub stats:**
+  
+ <div style="text-align: center;">
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
+</div>
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Karthick-840&&theme=tokyonight" alt="Karthick-840" /></p> --> 
