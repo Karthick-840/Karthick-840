@@ -46,8 +46,5 @@ You can click the Preview link to take a look at your changes.
 **Karthick's GitHub stats:**
   
  <div style="text-align: center;">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jacobscgc&&theme=tokyonight" alt="jacobscgc" /></p>
-   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexcrismart&&theme=tokyonight" alt="alexcrismart" /></p>
-   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
-   <!---!<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Karthick-840&&theme=tokyonight" alt="Karthick-840" /></p>--->
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Karthick-840&&theme=tokyonight" alt="Karthick-840" /></p>
 </div>
