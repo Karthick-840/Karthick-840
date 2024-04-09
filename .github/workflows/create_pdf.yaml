@@ -3,7 +3,7 @@ name: Compile LaTeX to PDF
 on:
   push:
     paths:
-      - '*.tex'  # Change this pattern to match your LaTeX file(s)
+      - 'main.tex'  # Change this pattern to match your LaTeX file(s)
 
 jobs:
   build:
