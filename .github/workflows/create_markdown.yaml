@@ -1,4 +1,4 @@
-name: Convert LaTeX to PDF and Images
+name: Convert LaTeX to PDF
 
 on:
   push:
@@ -11,7 +11,7 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Install Dependencies
-        run: sudo apt-get install texlive-full imagemagick
+        run: sudo apt-get install texlive-full
 
       - name: Convert LaTeX to PDF
         uses: pdfkit/pdfkit:v1.2.0
@@ -19,15 +19,8 @@ jobs:
           path: ./main.tex  # Path to your LaTeX file
           engine: pdflatex  # Specify pdflatex engine
 
-      - name: Split PDF to Images
-        run: |
-          pageCount=$(pdfinfo main.pdf | grep Pages | awk '{print $2}')
-          for ((i=1; i<=$pageCount; i++)); do
-            convert main.pdf -quality 100 -density 300 "page-$i.jpg"[$i]
-          done
-
-      - name: Upload Artifacts (Optional)
+      - name: Upload Artifact (Optional)
         uses: actions/upload-artifact@v3
         with:
-          name: artifacts
-          path: CV.pdf,*.jpg  # Upload both PDF and images
+          name: pdf-artifact
+          path: CV.pdf
