@@ -1,0 +1,29 @@
+name: Convert LaTeX to Markdown
+
+on:
+  push:
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Install Pandoc
+        run: sudo apt-get install pandoc
+
+      - name: Convert LaTeX to Markdown
+        uses: pandoc/action-pandoc@v2.3.1
+        with:
+          from: latex
+          to: markdown
+          inputs: main.tex -o CV.md
+
+      - name: Commit and Push Changes (Optional)
+        uses: ad-action/git-push@v1
+        if: ${{ github.event.name == 'push' && github.base_branch == 'main' }}  # Pushes only on main branch pushes
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
+          message: "Automatic conversion: LaTeX to Markdown"
