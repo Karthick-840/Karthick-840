@@ -14,16 +14,11 @@ jobs:
         run: sudo apt-get install pandoc
 
       - name: Convert LaTeX to Markdown
-        uses: pandoc/action-pandoc@v2.3.1
-        with:
-          from: latex
-          to: markdown
-          inputs: main.tex -o CV.md
+        run: pandoc main.tex -o cv.md
 
-      - name: Commit and Push Changes (Optional)
-        uses: ad-action/git-push@v1
-        if: ${{ github.event.name == 'push' && github.base_branch == 'main' }}  # Pushes only on main branch pushes
+      - name: Commit and Push Changes
+        uses: EndBug/add-and-commit@v8
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
+          add: cv.md
           message: "Automatic conversion: LaTeX to Markdown"
+          github-token: ${{ secrets.GITHUB_TOKEN }}
