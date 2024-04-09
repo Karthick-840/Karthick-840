@@ -1,26 +1,20 @@
-name: Convert LaTeX to PDF
+name: Compile LaTeX to PDF
 
 on:
   push:
+    paths:
+      - '*.tex'  # Change this pattern to match your LaTeX file(s)
 
 jobs:
-  convert:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
-      - name: Install Dependencies
-        run: sudo apt-get install texlive-full
+      - name: Install LaTeX
+        run: sudo apt-get install texlive-latex-base texlive-fonts-recommended texlive-fonts-extra texlive-latex-extra -y
 
-      - name: Convert LaTeX to PDF
-        uses: pdfkit/pdfkit:v1.2.0
-        with:
-          path: ./main.tex  # Path to your LaTeX file
-          engine: pdflatex  # Specify pdflatex engine
-
-      - name: Upload Artifact (Optional)
-        uses: actions/upload-artifact@v3
-        with:
-          name: pdf-artifact
-          path: CV.pdf
+      - name: Compile LaTeX to PDF
+        run: pdflatex -interaction=nonstopmode your_document.tex
