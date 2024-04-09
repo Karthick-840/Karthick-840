@@ -1,4 +1,4 @@
-name: Convert LaTeX to Markdown
+name: Convert LaTeX to PDF and Images
 
 on:
   push:
@@ -10,15 +10,24 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Install Pandoc
-        run: sudo apt-get install pandoc
+      - name: Install Dependencies
+        run: sudo apt-get install texlive-full imagemagick
 
-      - name: Convert LaTeX to Markdown
-        run: pandoc main.tex -o cv.md
-
-      - name: Commit and Push Changes
-        uses: EndBug/add-and-commit@v8
+      - name: Convert LaTeX to PDF
+        uses: pdfkit/pdfkit:v1.2.0
         with:
-          add: cv.md
-          message: "Automatic conversion: LaTeX to Markdown"
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          path: ./main.tex  # Path to your LaTeX file
+          engine: pdflatex  # Specify pdflatex engine
+
+      - name: Split PDF to Images
+        run: |
+          pageCount=$(pdfinfo main.pdf | grep Pages | awk '{print $2}')
+          for ((i=1; i<=$pageCount; i++)); do
+            convert main.pdf -quality 100 -density 300 "page-$i.jpg"[$i]
+          done
+
+      - name: Upload Artifacts (Optional)
+        uses: actions/upload-artifact@v3
+        with:
+          name: artifacts
+          path: CV.pdf,*.jpg  # Upload both PDF and images
