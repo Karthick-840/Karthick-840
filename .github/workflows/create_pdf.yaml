@@ -3,7 +3,7 @@ name: Compile LaTeX to PDF
 on:
   push:
     paths:
-      - '*main.tex'  # Change this pattern to match your LaTeX file(s)
+      - '*.tex'  # Change this pattern to match your LaTeX file(s)
 
 jobs:
   build:
@@ -15,9 +15,11 @@ jobs:
 
       - name: Install LaTeX
         run: sudo apt-get install texlive-latex-base texlive-fonts-recommended texlive-fonts-extra texlive-latex-extra -y
-
+      
       - name: Compile LaTeX to PDF
-        run: pdflatex -interaction=nonstopmode main.tex
+        run: |
+          cd $GITHUB_WORKSPACE  # Change directory to the root of the repository
+          pdflatex -interaction=nonstopmode main.tex
 
         
       - name: Archive PDF artifact
