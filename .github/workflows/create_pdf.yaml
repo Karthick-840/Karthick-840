@@ -18,3 +18,10 @@ jobs:
 
       - name: Compile LaTeX to PDF
         run: pdflatex -interaction=nonstopmode main.tex
+
+        
+      - name: Archive PDF artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: compiled-pdf
+          path: Karthick_CV.pdf
