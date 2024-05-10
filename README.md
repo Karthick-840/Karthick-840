@@ -42,9 +42,25 @@ You can click the Preview link to take a look at your changes.
 <code><img height="20" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"></code>
   
+# Performances in GitHub
 
-**Karthick's GitHub stats:**
-  
- <div style="text-align: center;">
-   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Karthick-840&&theme=tokyonight" alt="Karthick-840" /></p>
-</div>
+
+<p align="center"> 
+  <img alt="Summary" width="800px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karthick-840&theme=solarized_dark" />
+</p>
+
+<p align="center"> 
+  <img alt="Top Langs" width="360px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthick-840&layout=compact&show_icons=true&theme=cobalt" />
+</p>
+
+<p align="center"> 
+  <img alt="trophy" width="800px" src="https://github-profile-trophy.vercel.app/?username=Karthick-840&theme=onedark&column=7" />
+</p>
+
+
+<!---<p align="left"> 
+  <img alt="trophy" width="800px" src="https://github-profile-trophy.vercel.app/?username=Karthick-840&theme=onedark&column=7" />
+</p>
+--->
+
+
